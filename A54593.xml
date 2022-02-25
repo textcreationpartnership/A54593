@@ -1,0 +1,1153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Daily meditations, or, Quotidian preparations for and considerations of death and eternity begun July 19, 1666 / by Philip Pain.</title>
+            <author>Pain, Philip, d. 1668?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54593</idno>
+            <idno type="STC">Wing P190</idno>
+            <idno type="STC">ESTC W36143</idno>
+            <idno type="EEBO-CITATION">08789052</idno>
+            <idno type="OCLC">ocm 08789052</idno>
+            <idno type="VID">41818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41818)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1266:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Daily meditations, or, Quotidian preparations for and considerations of death and eternity begun July 19, 1666 / by Philip Pain.</title>
+                  <author>Pain, Philip, d. 1668?</author>
+               </titleStmt>
+               <extent>[1], 16, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Marmaduke Johnson,</publisher>
+                  <pubPlace>Cambridge [Mass.] :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41818:1"/>
+            <pb facs="tcp:41818:1" rendition="simple:additions"/>
+            <p>DAILY MEDITATIONS: OR, <hi>Quotidian Preparations for,</hi> AND Conſiderations of DEATH AND ETERNITY.</p>
+            <p>Begun <hi>July</hi> 19. 1666.</p>
+            <p>By <hi>Philip Pain:</hi> Who lately ſuffering Shipwrack, was drowned.</p>
+            <q>
+               <bibl>Job 30.23.</bibl>
+               <p>For I know that thou wilt bring me to death, and to the houſe appointed for all living.</p>
+            </q>
+            <q>
+               <bibl>Eccleſ. 12.1.</bibl>
+               <p>Remember now thy Creator in the dayes of thy youth, &amp;c.</p>
+            </q>
+            <p>
+               <hi>CAMBRIDGE:</hi> Printed by <hi>Marmaduke Johnſon.</hi> 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introductory_poem">
+            <pb facs="tcp:41818:2"/>
+            <pb facs="tcp:41818:2"/>
+            <head>The Porch.</head>
+            <l>TO live's a Gift, to dye's a Debt that we</l>
+            <l>Each of us owe unto Mortality.</l>
+            <l>What though the dead do ghaſtly look, and we</l>
+            <l>Like Children frighted are even but to be</l>
+            <l>Sp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tors of a dying man or woman?</l>
+            <l>Yet nothing's to be fear'd that is ſo common.</l>
+            <l>It is not <hi>Death</hi> that we in them do ſee;</l>
+            <l>It's but the <hi>Mask</hi> wherewith 'twill vailed be.</l>
+            <l>Yet where's the m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n or woman that can look</l>
+            <l>Death in the face, as in ſome pleaſing book?</l>
+            <l>Can we contented be to view our face</l>
+            <l>In ſuch a dreadful, doleful Looking-glaſs?</l>
+            <l>O where's the man or woman that can cry,</l>
+            <l>
+               <hi>Behold I come, Death I deſire to dye?</hi>
+            </l>
+            <l>O where's the man or woman that can ſay,</l>
+            <l>
+               <hi>Lord, I deſire my diſſolution day?</hi>
+            </l>
+            <l>And what's the reaſon 'tis ſo hard to dye,</l>
+            <l>To leave this World ſo full of vanity?</l>
+            <l>What makes it terrible? nought but the ſenſe</l>
+            <l>Of <hi>guilt</hi> &amp; <hi>ſin:</hi> Break down this potent fence,</l>
+            <l>And then be ſure for aye you ſhall enjoy</l>
+            <l>Joyes everlaſting, Everlaſting joy.</l>
+            <closer>
+               <signed>P. P.</signed>
+            </closer>
+         </div>
+         <div type="daily_meditations">
+            <pb facs="tcp:41818:3"/>
+            <div type="part">
+               <pb facs="tcp:41818:3"/>
+               <opener>
+                  <dateline>
+                     <date>July 19. 1666. The 5<hi rend="sup">th</hi> day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditation 1.</head>
+                  <l>GReat God, how ſhort's mans time! each minute ſpeaks</l>
+                  <l>He is but duſt, and that his Veſſel leaks.</l>
+                  <l>Each moment of my moment any time,</l>
+                  <l>Does plainly tell me 'tis not mine but thine.</l>
+                  <l>He gives me time to live, and verily</l>
+                  <l>Ere long I ſhall have likewiſe time to dye.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 2.</head>
+                  <l>After the time of Life is ended, then</l>
+                  <l>Oh there's <hi>Another Time</hi> for ſons of men;</l>
+                  <l>A great <hi>ETERNITY</hi> will ſurely come,</l>
+                  <l>Of bleſſed Happineſs, or curſed Doom.</l>
+                  <l>Lord, grant I may be one of thoſe that may</l>
+                  <l>Enjoy the firſt with thee another day.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 3.</head>
+                  <l>Down to the grave I muſt ere long deſcend,</l>
+                  <l>Leave all my friends behinde; thither I bend,</l>
+                  <l>And ſteer my wearied Courſe unto that Port,</l>
+                  <l>To which all ſorts of Nations do reſort.</l>
+                  <l>When I caſt Anchor, grant, O Lord, that I</l>
+                  <l>May ſafely ride where Chriſt himſelf did lye.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 4.</head>
+                  <l>This World a Sea of trouble is, and Man</l>
+                  <l>Is ſwimming through this vaſt wide Ocean.</l>
+                  <l>The billows heat, the waves are angry, and</l>
+                  <l>'Tis ſeldome that he ſpies a helping hand</l>
+                  <l>To buoy his head up. O great God, let me</l>
+                  <l>Be kept from ſinking into miſery.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>This day is paſt; but tell me, who can ſay</hi>
+                  </l>
+                  <l>
+                     <hi>That I ſhall ſurely live another day.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:41818:4"/>
+               <opener>
+                  <dateline>
+                     <date>July 20. The 6<hi rend="sup">th</hi> day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 5.</head>
+                  <l>I can but dye but once, why ſhould I fear?</l>
+                  <l>Whether I fear or not, 'tis all as near.</l>
+                  <l>O but my Soul conſider, that ſad time</l>
+                  <l>Gives every thing to death, leaves nothing thine,</l>
+                  <l>Except thy ſtinking Carcaſe, which ſhall be</l>
+                  <l>Diſpos'd to weal or woe eternally.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 6.</head>
+                  <l>The Paſſing-bell ſounds harſh unto the ear</l>
+                  <l>Of all that do the <hi>King of Terrours</hi> fear.</l>
+                  <l>But let a man have but an intereſt</l>
+                  <l>In <hi>Jeſus Chriſt,</hi> 'twill toll him to his reſt.</l>
+                  <l>Lord, give me ſuch a gift, none other I</l>
+                  <l>Crave or deſire, whether I live or dye.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 7.</head>
+                  <l>Death puts an end to every thing below,</l>
+                  <l>It gives the killing wound, the fatall blow.</l>
+                  <l>Of thoſe that here a while did but reſide,</l>
+                  <l>But for a time, the laſt act is, <hi>They dy'd.</hi>
+                  </l>
+                  <l>Then grant, O Lord, that I may act this Part</l>
+                  <l>Well on the Stage; then Death, lo here's my <figure>
+                        <figDesc>depiction of a heart</figDesc>
+                     </figure>.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 8.</head>
+                  <l>Scarce do I paſs a day, but that I hear</l>
+                  <l>Some one or other's dead; and to my ear</l>
+                  <l>Me thinks it is no news: but Oh? did I</l>
+                  <l>Think deeply on it, what it is to dye,</l>
+                  <l>My Pulſes all would bear, I ſhould not be</l>
+                  <l>Drown'd in this Deluge of Security.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>Think every day thy laſt, and ready bee;</hi>
+                  </l>
+                  <l>
+                     <hi>And ſo th'uncertain hour ſhall welcome thee.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:41818:4"/>
+               <opener>
+                  <dateline>
+                     <date>July 21. The 7<hi rend="sup">th</hi> day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 9.</head>
+                  <l>Man's life is like a Roſe, that in the Spring</l>
+                  <l>Begins to bloſſome, fragrant ſmells to bring:</l>
+                  <l>Within a day or two, behold Death's ſent,</l>
+                  <l>A publick Meſſenger of diſcontent.</l>
+                  <l>Lord grant, that when my Roſe begins to ſide,</l>
+                  <l>I may behold an Everlaſting ſhade.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 10.</head>
+                  <l>Alas, what is the <hi>World?</hi> a Sea of Gliſs.</l>
+                  <l>Alas, what's <hi>Earth?</hi> it's but an Hower-glaſs.</l>
+                  <l>The Sea diſſolves; the Glaſs is quickly run:</l>
+                  <l>Behold, with ſpeed man's Life is quickly done.</l>
+                  <l>Let me ſo ſwim in this Sea, that I may</l>
+                  <l>With thee live happy in another day.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 11.</head>
+                  <l>Had I as many dayes to live, as I</l>
+                  <l>See drops are in the ſea, yet I muſt dye:</l>
+                  <l>Each day a drop, would carry away a day;</l>
+                  <l>And ſo my life would ſwiftly paſs away.</l>
+                  <l>Jehovah great, humbly I thee beſeech</l>
+                  <l>The number of my dayes me for to teach.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 12.</head>
+                  <l>I every day do ſee that here below</l>
+                  <l>Is nothing permanent, away they go;</l>
+                  <l>Friends, and Relations, every thing that I</l>
+                  <l>Do caſt mine eyes upon, is Vanity.</l>
+                  <l>Give me a portion then even in that place,</l>
+                  <l>Where ſtill I may behold thy bleſſed face.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>I now lye down to reſt, but do not know</hi>
+                  </l>
+                  <l>
+                     <hi>Where by the morning God will me beſtow.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:41818:5"/>
+               <opener>
+                  <dateline>
+                     <date>July 22. <hi>[SAB.]</hi> The first day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 13.</head>
+                  <l>What great ſecurity poſſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſes ſome,</l>
+                  <l>Who think that Death's aſl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ep, or cannot come?</l>
+                  <l>How miſerable are ſuch Souls, who think</l>
+                  <l>To live even as they liſt, of ſin to drink</l>
+                  <l>Wide ſeas and rivers? when alas they ſee</l>
+                  <l>Not their approaching damning deſtiny.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 14.</head>
+                  <l>
+                     <hi>The time is ſhort,</hi> ſayes <hi>Paul:</hi> it's ſhort indeed;</l>
+                  <l>For it hath Eagles wings, and flees with ſpeed</l>
+                  <l>Each minute from us: how ſhould we improve</l>
+                  <l>This our ſhort time, that does ſo ſwiftly move.</l>
+                  <l>Lord grant, I be not prodigal of Time,</l>
+                  <l>Thinking 'tis thine that I do uſe, not mine.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 15.</head>
+                  <l>The dead they praiſe thee not; the living they</l>
+                  <l>Sound forth thy bleſſed praiſes every day.</l>
+                  <l>In grave there's no rememberance of thee,</l>
+                  <l>But of thee in that place forgetful bee.</l>
+                  <l>Lord grant that I may praiſe thee, whiles that I</l>
+                  <l>Have time to live, and ſummon'd not to dye.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 16.</head>
+                  <l>The miſery of man is great on him,</l>
+                  <l>Becauſe his time he knows not; 'tis his ſin,</l>
+                  <l>And nothing elſe, that thus hath man undone,</l>
+                  <l>And makes this Race of Life painful to run,</l>
+                  <l>Lord, give me knowledge of my time, that ſo</l>
+                  <l>Prep<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>'d I may be here before I go.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>One day of grace more here I have enjoy'd,</hi>
+                  </l>
+                  <l>
+                     <hi>It's Gods great mercy I am not deſtroy'd,</hi>
+                  </l>
+                  <l>
+                     <hi>That greatly have provok'd him</hi>—</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:41818:5"/>
+               <opener>
+                  <dateline>
+                     <date>July 23. The second day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 17.</head>
+                  <l>Whilſt in this world I ſtay, ſome hopes have I</l>
+                  <l>That I ſhall reign in Heaven eternally:</l>
+                  <l>But when my time is paſt, and I am gone,</l>
+                  <l>There's no hope left for me to build upon.</l>
+                  <l>Lord, grant me full aſſurance whilſt that I</l>
+                  <l>Am here, ſo willing I ſhall be to dye.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 18.</head>
+                  <l>We are but babes of yeſterday, and we</l>
+                  <l>Are ſons and daughters of Mortalitie.</l>
+                  <l>From duſt we came, to duſt we muſt again,</l>
+                  <l>And to the grave with ſpeed we fly amain.</l>
+                  <l>Lord, let the thoughts of Death poſſeſs my heart,</l>
+                  <l>That ſo Thee and my Soul may never part.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 19.</head>
+                  <l>How bruitiſh, Oh how ſenſleſs are all thoſe,</l>
+                  <l>Who to the World do ſo themſelves diſpoſe,</l>
+                  <l>As if there were no God to ſerve, no Death</l>
+                  <l>That's coming to deprive them of their breath?</l>
+                  <l>Lord help me ſo to live, that I may bee</l>
+                  <l>Never forgetful of my Death or Thee.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 20.</head>
+                  <l>How loth, how backward are we all to leave</l>
+                  <l>This tranſitory World? Let Death bereave</l>
+                  <l>Us of thoſe Mundane things, yet if we ſtill</l>
+                  <l>Reſolve to live and dye to Chriſt, what ill</l>
+                  <l>Can happen to us? Lord, before I dye</l>
+                  <l>Let me a better Kingdome farre eſpy.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>As the great God ſtill addes unto my dayes,</hi>
+                  </l>
+                  <l>
+                     <hi>It's but new matter for me him to praiſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:41818:6"/>
+               <opener>
+                  <dateline>
+                     <date>July 24. The third day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 21.</head>
+                  <l>How often have I view'd the graves, and gone</l>
+                  <l>Unto that place, and yet returned home</l>
+                  <l>Again unto my houſe: The time will bee</l>
+                  <l>When I muſt go, but no returning ſee.</l>
+                  <l>Lord, give me ſo much grace, that I may be</l>
+                  <l>Ever-more mindful of Eternitie.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 22.</head>
+                  <l>What mean thoſe ſhow'rs, thoſe drops, that from on high</l>
+                  <l>Deſcend, to call men to Eternity?</l>
+                  <l>Both Young and Old, no Sex is ſpar'd; O why?</l>
+                  <l>What is the cauſe of our Mortality?</l>
+                  <l>Lo here it is; A bleſſed God we have</l>
+                  <l>Offended, therefore we muſt to the grave.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 23.</head>
+                  <l>Death ſtrikes the Young man, and the Old man muſt</l>
+                  <l>Yield to Deaths ſtroke, and return to the duſt:</l>
+                  <l>Nor Strength, nor Beauty, Riches, Honours, lent</l>
+                  <l>But for a while, cannot our death prevent.</l>
+                  <l>Oh how ſhould we then uſe theſe things below,</l>
+                  <l>That muſt be left when we from hence do go.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 24.</head>
+                  <l>Man's life it is but lent him here, and he</l>
+                  <l>Is but a debtor to Mortalitie.</l>
+                  <l>Thoſe fading Comforts that below we have</l>
+                  <l>Or do enjoy, will leave us at the grave.</l>
+                  <l>Lord, grant that when my Comforts all are gone,</l>
+                  <l>I may with Thee have ſweet Communion.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>This day is paſt, God mercy ſhews to me,</hi>
+                  </l>
+                  <l>
+                     <hi>Who am a Duſt-heap of Mortalitie.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:41818:6"/>
+               <opener>
+                  <dateline>
+                     <date>July 25. The 4<hi rend="sup">th</hi> day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 25.</head>
+                  <l>Alas poor Death, where does thy great ſtrength lye?</l>
+                  <l>'Tis true, I'me mortall, yet I cannot dye.</l>
+                  <l>I tell thee, If I dye in Chriſt, it is</l>
+                  <l>The way thou ſhew'ſt me to eternal bliſs.</l>
+                  <l>By death I live, if that I live to Chriſt,</l>
+                  <l>And then thou'lt ſay the mark I have not miſt.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 26.</head>
+                  <l>Alas, what's Sorrow? 'tis our portion here;</l>
+                  <l>The Chriſtian's portion, Trouble, Grief, and Fear:</l>
+                  <l>He is <hi>The</hi> Man of Sorrows here below</l>
+                  <l>Of all the men on earth; yet let us know,</l>
+                  <l>Chriſt left his Grave-clothes, that we might when grief</l>
+                  <l>Draws tears, or blood, not want an Handkerchief.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 27.</head>
+                  <l>Is Death ſo formidable? Can the chance</l>
+                  <l>Of one poor day change our freſh Countenance?</l>
+                  <l>Is there ſo much in Death, that we ſhould be</l>
+                  <l>Like Children frighted at our deſtiny?</l>
+                  <l>Of Heaven give me aſſurance (Lord) and I</l>
+                  <l>Shall ne're believe Death looks ſo dreadfully.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 28.</head>
+                  <l>Could I in greatneſs farre ſurmount the skie,</l>
+                  <l>Or yet in glory could the Sun out-vie;</l>
+                  <l>Could I be more then any man that lives,</l>
+                  <l>Great, Fair, Rich, Wiſe, all in Superlatives:</l>
+                  <l>Yet if I were ſtill mortal, there would be</l>
+                  <l>A debt ſtill to be paid to death by me.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>Lord, as thou giveſt me more hours to live,</hi>
+                  </l>
+                  <l>
+                     <hi>So with it, Oh do thou thy grace me give.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:41818:7"/>
+               <opener>
+                  <dateline>
+                     <date>July 26. The 5<hi rend="sup">th</hi> day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 29.</head>
+                  <l>How mutable is every thing that here</l>
+                  <l>Below we do enjoy? with how much fear</l>
+                  <l>And trouble are thoſe gilded Vanities</l>
+                  <l>Attended, that ſo captivate our eyes?</l>
+                  <l>Oh, who would truſt this World, or prize what's in it,</l>
+                  <l>That gives, and takes, and changes in a minute?</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 30.</head>
+                  <l>Sure every ſoul in this world hath its day</l>
+                  <l>Of grace, and if he will improve it, may.</l>
+                  <l>The time will come when it ſhall have an end,</l>
+                  <l>Ev'n when we muſt unto the grave deſcend.</l>
+                  <l>Lord, help me now to know the things that do</l>
+                  <l>Belong unto my peace, and them purſue.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 31.</head>
+                  <l>We have no Licenſe from our God to waſte</l>
+                  <l>One day, one hour, one moment, that do haſte</l>
+                  <l>So ſwiftly from us in our ſinful pleaſures,</l>
+                  <l>But rather to lay up for laſting treaſures.</l>
+                  <l>Lord, ſpare me yet a little, that I may</l>
+                  <l>Prepare for Death, and for the Judgement-day.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 32.</head>
+                  <l>The damned now in Hell, that there do ly</l>
+                  <l>In endleſs flames, that howl, and weep, and cry</l>
+                  <l>For anguiſh great, this is their deepeſt Crime,</l>
+                  <l>Heart-vexing trouble, <hi>Oh Mispence of Time!</hi>
+                  </l>
+                  <l>Oh who would ruſh into thoſe flames of Fire,</l>
+                  <l>That of miſ-ſpending time they may enquire?</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>Lord, let thy Terrours every day cauſe me</hi>
+                  </l>
+                  <l>
+                     <hi>To prepare for my end, and ready be.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:41818:7"/>
+               <opener>
+                  <dateline>
+                     <date>July 27. the 6<hi rend="sup">th</hi> day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 33.</head>
+                  <l>Our Saviour he aſcended up on high,</l>
+                  <l>And led death conqu'red in captivity:</l>
+                  <l>The Grave is ſweetned by him; why ſhould we</l>
+                  <l>Be loth to ſhare in this his Victorie?</l>
+                  <l>Lord, as death thou haſt overcome, Oh ſo</l>
+                  <l>Conquer my ſins ere I from hence do go.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 34.</head>
+                  <l>By Faith the Chriſtian acts, whilſt here beneath</l>
+                  <l>He lives, till death his Faith and Life bereave;</l>
+                  <l>But when this life is ended, he enjoyes</l>
+                  <l>The things that he believ'd, Eternal Joves.</l>
+                  <l>Lord, grant that I may here by Faith foreſee</l>
+                  <l>A glorious Manſion prepar'd for me.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 35.</head>
+                  <l>Theſe Arms, theſe Hands, this Face, they ere long muſt</l>
+                  <l>Decay, conſume, and moulder into duſt;</l>
+                  <l>The time will be, when time ſhall be no more</l>
+                  <l>Upon this earth, as it hath heretofore.</l>
+                  <l>Great God, then grant that I may ſerious be</l>
+                  <l>In and about things of Eternitie.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 36.</head>
+                  <l>I've often heard, that ſu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h a Friend is dead,</l>
+                  <l>And that another layes his weary head</l>
+                  <l>Down in the grave; yet this no news to me,</l>
+                  <l>Whilſt I live here in ſin and vanitie.</l>
+                  <l>Lord, help me now to think the time will come</l>
+                  <l>For me, as well as thoſe that now are gone.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>As ſtrong, as young as now I am, yet muſt</hi>
+                  </l>
+                  <l>
+                     <hi>I be for certain buried in the duſt.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:41818:8"/>
+               <opener>
+                  <dateline>
+                     <date>July 28. The 7<hi rend="sup">th</hi> day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 37.</head>
+                  <l>Our dayes, our time, appointed are by God,</l>
+                  <l>And beyond that we may not have abode</l>
+                  <l>Here on this ſinfull earth: the day draws nigh,</l>
+                  <l>When every one ſhall have a time to dye.</l>
+                  <l>Lord, as the time does from me paſs away,</l>
+                  <l>Grant me thy grace whilſt in the world I ſtay.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 38.</head>
+                  <l>Frail Mortals poſte with ſpeed after thoſe things,</l>
+                  <l>Which at the laſt nought elſe but ſorrow brings:</l>
+                  <l>Moſt think not of a great Eternity</l>
+                  <l>That's drawing on apa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e. Lord, grant that I</l>
+                  <l>May whilſt I'me here purſue with might and main,</l>
+                  <l>Thoſe things that will bring everlaſting gain.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 39.</head>
+                  <l>All Creatures in their kinde ſound forth the praiſe</l>
+                  <l>Of their bleſt Maker; yea, the glorious Rayes</l>
+                  <l>Of his great Majeſty appeareth on</l>
+                  <l>The leaſt of all the Works of Creation.</l>
+                  <l>But Lord, Man by his ſin diſhonours thee,</l>
+                  <l>Who art the God of Immortalitie.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 40.</head>
+                  <l>Whilſt we are here below, we act and move,</l>
+                  <l>And <hi>this,</hi> and <hi>that</hi> we ſeek for to improve:</l>
+                  <l>The time will come when that our places ſhall</l>
+                  <l>Not know us; we ſhall be no more at all.</l>
+                  <l>Lord, grant that I may thoſe great things improve,</l>
+                  <l>That are brought down to earth from heaven above.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>Give me an intereſt in thy Son, and then</hi>
+                  </l>
+                  <l>
+                     <hi>Though I dye ne're ſo much I'le live agen.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:41818:8"/>
+               <opener>
+                  <dateline>
+                     <date>July 29. The First day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 41.</head>
+                  <l>How eagerly doth vain man here purſue</l>
+                  <l>Theſe worldly things, when his dayes are ſo few?</l>
+                  <l>His time is ſhort, it's ſhort, yea <hi>ſhort indeed,</hi>
+                  </l>
+                  <l>That flies ſo ſwiftly from him, with ſuch ſpeed.</l>
+                  <l>Lord, help me to conſider that I muſt</l>
+                  <l>Not here live alwayes, but return to duſt.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 42.</head>
+                  <l>How precious! Oh how precious is our Time?</l>
+                  <l>Sure to miſ-ſpend it is a ſinfull Crime.</l>
+                  <l>This Pearl being loſt, is never to be found</l>
+                  <l>Again, though all the world our cries reſound:</l>
+                  <l>O thou that art the God of Ages, give</l>
+                  <l>Me that grace, for to know what 'tis to live.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 43.</head>
+                  <l>What are our dayes unto Eternity?</l>
+                  <l>Our preſent joyes, to future miſery?</l>
+                  <l>What is there in this world that ſtable is?</l>
+                  <l>What's all that's here below to laſting bliſs?</l>
+                  <l>Jehovah help me here, that ſo I may</l>
+                  <l>Enjoy eternall bliſs another day.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 44.</head>
+                  <l>
+                     <hi>ETERNITY!</hi> O Soul-amazing thought,</l>
+                  <l>That never to my ſenſes yet was brought</l>
+                  <l>Rightly to underſtand it: O the height,</l>
+                  <l>The breadth, the length, the depth of what I ſlight!</l>
+                  <l>Help, Son of <hi>David,</hi> mercy on me have;</l>
+                  <l>This is a coming, I muſt to the grave.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>I now repoſe my weary head upon</hi>
+                  </l>
+                  <l>
+                     <hi>My Pillow, but I ſhall be ſhortly gone.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:41818:9"/>
+               <opener>
+                  <dateline>
+                     <date>July 30. The ſecond day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 45.</head>
+                  <l>Gods mercy unto man is great, who gives</l>
+                  <l>Unto him life, 'tis enough that he lives;</l>
+                  <l>God might have juſtly took our lives from us</l>
+                  <l>Long afore this, Death following the Curſe.</l>
+                  <l>Lord, grant the Curſe may be remov'd from me,</l>
+                  <l>The grave then (Lord) will ſmell moſt fragrantlie.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 46.</head>
+                  <l>Long life a mercy is to good and bad,</l>
+                  <l>And makes the hearts of moſt men very glad;</l>
+                  <l>Yet the true Childe of God deſires home,</l>
+                  <l>Unto his Fathers houſe for to be gone.</l>
+                  <l>Lord, when thou ſeeſt fit, work grace in me,</l>
+                  <l>That I may ſo in Heaven deſire to be.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 47.</head>
+                  <l>
+                     <hi>Adam</hi> was plac'd unto his hearts deſire</l>
+                  <l>In Paradice, untill he did aſpire</l>
+                  <l>To ſtorm the Heavens; whence Death did aſſume</l>
+                  <l>His Title, <hi>King of Terrours,</hi> to conſume</l>
+                  <l>Frail ſle<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, and in a moment make it fly</l>
+                  <l>From Earth to Heaven, from hence t'Eternity.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 48.</head>
+                  <l>No ſooner did we change our Mothers Womb</l>
+                  <l>For this frail World, but by and by a Tomb</l>
+                  <l>Prepared is, and Mourners they attend</l>
+                  <l>To lead us ſoftly to our Journevs end.</l>
+                  <l>Lord, grant that when my change comes, I may be</l>
+                  <l>Then fit t'enjoy Communion with thee.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>Death is a Lot is common unto all,</hi>
+                  </l>
+                  <l>
+                     <hi>And when w'are gone, Friends cannot us recall.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:41818:9"/>
+               <opener>
+                  <dateline>
+                     <date>July 31. The third day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 49.</head>
+                  <l>In Heaven are eternal joyes; and ſure</l>
+                  <l>In that place there are Remedies to cure</l>
+                  <l>Our here Sin-ſick'ned Souls: but Oh ſhall I</l>
+                  <l>Be made a Patient of this Remedy?</l>
+                  <l>Lord, I believe a Heaven there is; but this</l>
+                  <l>The Queſtion is, <hi>Shall I enjoy that bliſs?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Meditat. 50.</head>
+                  <l>In Hell are Torments, Torments without end;</l>
+                  <l>And them I muſt endure, if that no friend</l>
+                  <l>I have of Jeſus. O my Soul, muſt I</l>
+                  <l>Go from <hi>PAIN</hi> here, to Pain eternally?</l>
+                  <l>I know there is a Hell: Lord, grant that I</l>
+                  <l>May go from Earth to Heaven when I dye.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 51.</head>
+                  <l>My Soul tell me, Are there not many that</l>
+                  <l>Do wiſh for Heaven, and yet miſs the Gate?</l>
+                  <l>How many do (with <hi>Balaam</hi>) wiſh that they</l>
+                  <l>May depart like a Saint at dying day?</l>
+                  <l>Lord, let me to be like them here deſire,</l>
+                  <l>Upon this earth, as when they do expire.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 52.</head>
+                  <l>How many are there that may take their Harps</l>
+                  <l>And hang upon the Willows; mournful hearts</l>
+                  <l>Would beſt become ſuch as muſt go from hence,</l>
+                  <l>And then in Hell have laſting reſidence.</l>
+                  <l>O Lord, how little do I think on this,</l>
+                  <l>That I may be one that may miſs of Bliſs?</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>I am (I ſee) ſtill Mercies Monument;</hi>
+                  </l>
+                  <l>
+                     <hi>For more, one day is ſtill unto me lent.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:41818:10"/>
+               <opener>
+                  <dateline>
+                     <date>Auguſt 1. The 4<hi rend="sup">th</hi> day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 53.</head>
+                  <l>How often ſhould we think of this, that we</l>
+                  <l>Muſt ere long yield to Death's ſupremacie?</l>
+                  <l>The time ere long wil<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, come, when we ſhall be</l>
+                  <l>No more; and ſhor<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly we no time ſhall ſee.</l>
+                  <l>O that I might be then pr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>par'd for this</l>
+                  <l>So great a Charge, and <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e receiv d to Bliſs.</l>
+               </lg>
+               <lg>
+                  <head>M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ditat. 54.</head>
+                  <l>The ſons of men are prone to f<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rget Death,</l>
+                  <l>And put it farre away from them, till br<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ath</l>
+                  <l>Begins to tell them they muſt to the grave;</l>
+                  <l>And <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen, Oh what would the<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> give but to h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve</l>
+                  <l>One year of reſpite? Help me, Lord, to know</l>
+                  <l>As I move here, ſo my time moves alſo.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 55.</head>
+                  <l>Whilſt we live here, we have he bleſſed voice</l>
+                  <l>Of God by Miniſters, the bleſſed noiſe</l>
+                  <l>And ſound of <hi>Aarons</hi> Bells: the time will be</l>
+                  <l>When we no more of this ſhall hear or ſee.</l>
+                  <l>Help, Lord, that I may then improve the ſame</l>
+                  <l>Unto the praiſe and glory of thy Name.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 56.</head>
+                  <l>The time will be, when we ſhall be <hi>No more:</hi>
+                  </l>
+                  <l>Where will the World be then? 'Twill be <hi>No more.</hi>
+                  </l>
+                  <l>Where will our Comforts be? They'll be <hi>No more.</hi>
+                  </l>
+                  <l>Where will our Friends be then? They'll be <hi>No more.</hi>
+                  </l>
+                  <l>Lord, grant me then thy grace, leſt that <hi>No more</hi>
+                  </l>
+                  <l>Do ſeize upon me, and I be <hi>No more.</hi>
+                  </l>
+               </lg>
+               <lg type="closer">
+                  <l>No More! <hi>O ſolemn ſound! This night I may</hi>
+                  </l>
+                  <l>
+                     <hi>Be ſtruck by Death, and never ſee the day.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:41818:10"/>
+               <opener>
+                  <dateline>
+                     <date>Auguſt 2. The 5<hi rend="sup">th</hi> day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 57.</head>
+                  <l>How tremblingly do creatur<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s here appear</l>
+                  <l>Before an earthly Judge? what dreadf<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l fear</l>
+                  <l>Does ſeize upon them at the Barre of him,</l>
+                  <l>Who likewiſe muſt arraigned be for ſin?</l>
+                  <l>Lord, gran<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> me here thy grace, and ſo may I</l>
+                  <l>With joy at laſt behold <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hy Majeſty.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 58.</head>
+                  <l>The day of death's a coming; <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fter that</l>
+                  <l>A day of Judgement will diſcriminate,</l>
+                  <l>And put a d<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fference 'twixt the Saints and thoſe</l>
+                  <l>Who do Gods Wayes and Precepts here oppoſe.</l>
+                  <l>Lord, let me be prepared for that day,</l>
+                  <l>That ſo with joy (Lord) thee behold I may.</l>
+               </lg>
+               <lg>
+                  <head>M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ditat. 59.</head>
+                  <l>The hand of Death ſtrikes ſure, there's nothing can</l>
+                  <l>Obſtruct, or hinder it; and every man,</l>
+                  <l>Whether he will or no, muſt know that he</l>
+                  <l>Muſt into duſt moſt ſurely turned be.</l>
+                  <l>O how ſh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uld I prepare for this, ſince 'tis</l>
+                  <l>So ſure and certain which I cannot miſs?</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 60.</head>
+                  <l>Death is a ſurly Sergeant, no reſpect</l>
+                  <l>Hath he to perſons, does their tears reject;</l>
+                  <l>No bribe will blinde his eyes, away we muſt,</l>
+                  <l>If he but call, and return to the duſt.</l>
+                  <l>Lord, grant that I may death behold with joy,</l>
+                  <l>And to my ſoul let it bring no annoy.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>Each minute gives my time a ſhorter time:</hi>
+                  </l>
+                  <l>
+                     <hi>Not to prepare for Death is a ſad crime.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:41818:12"/>
+               <opener>
+                  <dateline>
+                     <date>Auguſt 3. The 6<hi rend="sup">th</hi> day.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>Meditat. 61.</head>
+                  <l>There's nothing that I do, or act, but ſayes</l>
+                  <l>That I am Mortal with an Emphaſis.</l>
+                  <l>Each day ſpeaks to me, and gives me to know</l>
+                  <l>That I ere it be long away muſt go.</l>
+                  <l>Let me an intereſt have in Chriſt, and I</l>
+                  <l>Shall over Death triumph with victory.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 62.</head>
+                  <l>How is it that I am ſo careleſs here,</l>
+                  <l>And never mind how I my Courſe do ſteer</l>
+                  <l>For an Eternal Port? and never think</l>
+                  <l>That at the laſt my leaky Ship will ſink?</l>
+                  <l>Lord, guard me from thoſe Pirats that would catch</l>
+                  <l>My Soul, do thou (Lord) be their over-match.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 63.</head>
+                  <l>Lord, what's the reaſon I'me ſo loth to hear</l>
+                  <l>Of the great day of Death? what means this fear,</l>
+                  <l>That at the thoughts of death o're-ſpreads me, and</l>
+                  <l>Prompts me to give a willing Countermand?</l>
+                  <l>
+                     <hi>Jeſus,</hi> 'tis to be fear'd I never ſtood</l>
+                  <l>As one that's intereſted in thy Blood.</l>
+               </lg>
+               <lg>
+                  <head>Meditat. 64.</head>
+                  <l>What makes the Saints on earth deſire to be</l>
+                  <l>Diſſolved, and that bleſſed day to ſee?</l>
+                  <l>What makes them whilſt they're here below to groan</l>
+                  <l>Againſt this body of Corruption?</l>
+                  <l>Lord, they know that when they from hence do go,</l>
+                  <l>On them a glorious Kingdome thou'lt beſtow.</l>
+               </lg>
+               <lg type="closer">
+                  <l>
+                     <hi>Lord, if my Soul this night away thou take,</hi>
+                  </l>
+                  <l>
+                     <hi>Let me by morning then in Heav'n awake.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript_to_the_reader">
+            <pb facs="tcp:41818:12"/>
+            <head>A POSTSCRIPT TO THE READER.</head>
+            <lg>
+               <l>'TIs not to ſhew the Author's <hi>Wit,</hi> but <hi>Grace,</hi>
+               </l>
+               <l>That theſe ſew <hi>Poems</hi> are expos'd to view;</l>
+               <l>In which thou may'ſt behold Youths <hi>flow'ry face</hi>
+               </l>
+               <l>Set toward <hi>Sion,</hi> ſeeking things <hi>moſt true:</hi>
+               </l>
+               <l>Contemning worldly <hi>Vain's,</hi> but prising high</l>
+               <l>A place i'th' Manſions of <hi>Eternity.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Here was hours ſpent indeed! and yet <hi>not ſpent;</hi>
+               </l>
+               <l>Time thus improv'd, is to <hi>Redeem the time.</hi>
+               </l>
+               <l>For <hi>Youth,</hi> Death's company thus to frequent,</l>
+               <l>(As if a dweller in his <hi>ſhady Clime</hi>)</l>
+               <l>Does prove a thing ſo rare, ſo ſeldome known,</l>
+               <l>That ſcarce <hi>Old Age</hi> can call this act <hi>its own.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>By hourly meditating on the <hi>Grave,</hi>
+               </l>
+               <l>He' came acquainted with that <hi>darkſome Cell;</hi>
+               </l>
+               <l>Knew that from going thither none could ſave,</l>
+               <l>(We on the Brink of <hi>Machpelah</hi> do dwell)</l>
+               <l>Therefore prepar'd with ſedulous deſire</l>
+               <l>To take his Bed there, when he ſhould expire.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:41818:11"/>
+               <l>And though our <hi>Saviour</hi> with his <hi>Odours</hi> ſweet</l>
+               <l>Hath to the Faithfull it <hi>perfum'd;</hi> yet there</l>
+               <l>They can't abide for aye: away muſt fleet</l>
+               <l>To <hi>Judgement,</hi> when the <hi>Great Judge</hi> ſhall appear.</l>
+               <l>This oft he thought upon: <hi>This, this</hi> ſhould be</l>
+               <l>Our ſtanding thought, when all thoughts elſe do flee</l>
+            </lg>
+            <lg>
+               <l>Of <hi>Hell</hi> he's not forgetful; but with dread</l>
+               <l>And trembling <hi>thinks</hi> &amp; <hi>ſpeaks</hi> thereof: doth give</l>
+               <l>Warning to <hi>living ones,</hi> they ſhould not plead</l>
+               <l>For <hi>Sin,</hi> which brings a Hell without reprieve:</l>
+               <l>Excites to <hi>Pray'r, Repentance,</hi> and to ſtay</l>
+               <l>By <hi>Faith on Chriſt</hi> for Life which laſts for ay.</l>
+            </lg>
+            <lg>
+               <l>But his moſt <hi>ſweeteſt Contemplation</hi>
+               </l>
+               <l>Takes wing below, and up to <hi>Heav'n</hi> doth ſoar:</l>
+               <l>There's <hi>matter</hi> for deep <hi>Meditation,</hi>
+               </l>
+               <l>Where <hi>Pleaſures</hi> do abide for <hi>evermore,</hi>
+               </l>
+               <l>Which neither <hi>Eye</hi> e're ſaw, <hi>Ear</hi>heard, nor can</l>
+               <l>Enter into the <hi>Heart</hi> of any man.</l>
+            </lg>
+            <lg>
+               <l>Let the <hi>Example</hi> of this <hi>Pilot young,</hi>
+               </l>
+               <l>(So skill'd in <hi>Spiritual Sailing</hi>) thee inform</l>
+               <l>To ſteer thy <hi>Courſe</hi> through <hi>Baca's Vale,</hi> along</l>
+               <l>To this <hi>fair Haven,</hi> (fear nor <hi>Winds</hi> nor <hi>Storm</hi>)</l>
+               <l>Till thou arrive with him, in whom did dwell</l>
+               <l>
+                  <hi>Some good thing toward the God of Iſrael.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>J. T.</signed>
+            </closer>
+            <pb facs="tcp:41818:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
